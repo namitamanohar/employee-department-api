@@ -9,7 +9,7 @@ namespace MyEmployeeDepartmentAPI.Models
     {
         public int Id { get; set; }
         public string DeptName { get; set; }
-        public List<Employee> Employees { get; set; }
+       
 
     }
 }
